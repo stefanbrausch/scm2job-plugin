@@ -4,14 +4,14 @@
 	<parent>
 		<groupId>org.jenkins-ci.plugins</groupId>
 		<artifactId>plugin</artifactId>
-		<version>1.424.6</version>
+		<version>1.509.3</version>
 	</parent>
 
 	<artifactId>scm2job</artifactId>
 	<packaging>hpi</packaging>
 	<name>Jenkins SCM to job plugin</name>
     	<description>Finds jobs by their SCM URL</description>
-	<version>2.4-SNAPSHOT</version>
+	<version>2.5-SNAPSHOT</version>
 	<url>http://wiki.jenkins-ci.org/display/JENKINS/SCM2Job+Plugin</url>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
